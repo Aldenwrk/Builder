@@ -1,0 +1,11 @@
+*{
+padding:0;
+margin:0;
+list-style:none;
+}
+
+/*header-section*/
+.header-section{
+background-color:#1E73FF;
+color:#fff;
+}
