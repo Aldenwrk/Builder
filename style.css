@@ -8,4 +8,36 @@ list-style:none;
 .header-section{
 background-color:#1E73FF;
 color:#fff;
+font-size:18px;
+}
+
+.header_logo{
+  background-color:grey;
+  width:140px;
+  height:33px;
+}
+
+.header_img{
+  width:190px;
+  height:535px;
+  background-color:grey;
+}
+.header_consult_button{
+border:none;
+width: 256px;
+height: 46px;
+background: #FFD179;
+border-radius: 8px;
+color: #09152F;
+font-weight: 700;
+font-size: 18px;
+}
+
+.promo_start{
+font-weight: 700;
+font-size: 48px;
+}
+.promo_end{
+font-weight: 700;
+font-size: 64px;
 }
