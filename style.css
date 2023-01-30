@@ -10,6 +10,9 @@
 	color: #fff;
 	font-size: 18px;
 }
+.header-wrapper{
+padding:34px 360px 160px 360px;
+}
 
 .header_logo {
 	background-color: grey;
